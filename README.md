@@ -33,7 +33,6 @@ To use, simply type the name of a Pokémon and the character's figure and powers
 
 ![](https://github.com/jonasfschuh/angular-service-pokemon/blob/main/docs/service.gif?raw=true&sanitize=true)
 
-
 :heavy_check_mark: Uses the concept of Pipes;
 
 ## :rocket: Technologies ##
@@ -75,10 +74,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Screenshots ##
 
-![](https://github.com/jonasfschuh/angular-blog/blob/main/docs/img/home.gif?raw=true&sanitize=true)
-
-
-![](https://github.com/jonasfschuh/angular-blog/blob/main/docs/img/content.gif?raw=true&sanitize=true)
+![](https://github.com/jonasfschuh/angular-service-pokemon/blob/main/docs/screenshot.gif?raw=true&sanitize=true)
 
 
 
