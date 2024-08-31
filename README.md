@@ -31,6 +31,8 @@ To use, simply type the name of a Pokémon and the character's figure and powers
 
 :heavy_check_mark: Uses the concept of Angular Services;
 
+![](ps://github.com/jonasfschuh/angular-service-pokemon/blob/main/docs/service.gif?raw=true&sanitize=true)
+
 :heavy_check_mark: Uses the concept of Pipes;
 
 ## :rocket: Technologies ##
