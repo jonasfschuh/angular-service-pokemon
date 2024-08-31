@@ -27,7 +27,7 @@ To use, simply type the name of a Pokémon and the character's figure and powers
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: consumes the API [Pokemon API v2](https://pokeapi.co/api/v2/pokemon/);
+:heavy_check_mark: Consumes the API [Pokemon API v2](https://pokeapi.co/api/v2/pokemon/);
 
 :heavy_check_mark: Uses the concept of Angular Services;
 
